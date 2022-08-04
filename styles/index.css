@@ -55,6 +55,7 @@ body {
     text-align: center;
 }
 
+
 .perfil a {
     text-decoration: none;
 }
@@ -111,5 +112,7 @@ body {
 
 .button button:hover {
     border: 3px solid white;
+    background-color: white;
+    color: black;
     font-size: 17pt;
 }
